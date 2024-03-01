@@ -1,0 +1,36 @@
+/* src/App.css */
+.star-filled {
+    color: gold;
+  }
+  
+  .star-empty {
+    color: #ccc;
+  }
+
+  .bg-container {
+    
+    display:flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-left: 50px;
+  }
+  .card-container {
+    height: 500px;
+    width:  450px;
+    background-color: aqua;
+    border-radius: 5px;
+    margin-left: 2px;
+    text-align: center;
+   overflow: auto;
+    margin-bottom: 5px;
+  }
+  .image-element{
+    height: 150px;
+    background-color: aqua;
+    border: none;
+  }
+  .cate-button {
+    margin-right: 5px;
+    margin-top: 5px;
+    
+  }
