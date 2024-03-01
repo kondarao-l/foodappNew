@@ -20,7 +20,7 @@ function Dashboard() {
     <div className='bg-container'>
       <Heading />
       <center>
-        <h1>List of Restaurants</h1>
+        <h1>List of Restaurants:::</h1>
 
 
         <div style={{ display: 'flex', justifyContent: 'start',marginBottom:'15px',marginLeft:'70px' }} >
